@@ -2,7 +2,7 @@ baseurl: https://meiismoe.top/
 languageCode: en-us
 theme: hugo-theme-stack
 title: fishacenny's Blog
-copyright: Example Person
+copyright: fishacenny
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -13,13 +13,6 @@ DefaultContentLanguage: en
 hasCJKLanguage: true
 
 languages:
-    en:
-        languageName: English
-        title: Example Site
-        weight: 1
-        params:
-            sidebar:
-                subtitle: Example description
     zh-cn:
         languageName: 简体中文
         title: 演示站点
@@ -28,14 +21,6 @@ languages:
             sidebar:
                 subtitle: 演示说明
 
-    zh-tw:
-        languageName: 正體中文
-        title: 演示站點
-        weight: 2
-        params:
-            sidebar:
-                subtitle: 演示說明
-
     ja:
         languageName: 日本語
         title: サンプルサイト
@@ -43,14 +28,6 @@ languages:
         params:
             sidebar:
                 subtitle: サンプル説明
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        weight: 3
-        params:
-            sidebar:
-                subtitle: وصف تجريبي
 
 services:
     # Change it to your Disqus shortname before using
@@ -88,7 +65,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/space.jpg
 
     article:
         math: false
