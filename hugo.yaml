@@ -1,7 +1,7 @@
 baseurl: https://meiismoe.top/
 languageCode: en-us
 theme: hugo-theme-stack
-title: fishacenny's Blog
+title: "fishacenny's Blog"
 copyright: fishacenny
 
 # Theme i18n support
@@ -15,19 +15,12 @@ hasCJKLanguage: true
 languages:
     zh-cn:
         languageName: 简体中文
-        title: 演示站点
+        title: fishacenny's Blog
         weight: 2
         params:
             sidebar:
-                subtitle: 演示说明
+                subtitle: happy,happy,happy~
 
-    ja:
-        languageName: 日本語
-        title: サンプルサイト
-        weight: 2
-        params:
-            sidebar:
-                subtitle: サンプル説明
 
 services:
     # Change it to your Disqus shortname before using
