@@ -1,10 +1,10 @@
-+++
+---
 date = '2025-12-28T18:27:30+08:00'
 draft = false
 title = 'My First Post'
 tags: ["Hugo", "ArchLinux"]
 categories: ["生活"]
-+++
+---
 ## 🚀 启动日志：Hello World!
 
 这是我在 **Arch Linux** 上使用 **Hugo** + **Cloudflare Pages** 搭建的个人博客。
